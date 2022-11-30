@@ -8,7 +8,7 @@ Subir un video donde se muestre la ejecución del job y adjuntar los logs del mi
 EL REPOSITORIO QUE SE DEBE CLONAR AL MOMENTO DE CREAR EL JOB ES:
 docker-compose.yml
     ```commandline
-    https://github.com/edytarqui3/modulo8-laboratorio4/blob/main/docker-compose.yml
+    https://github.com/edytarqui3/modulo8-laboratorio4
     ```
     Dockerfile
     ```commandline
