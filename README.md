@@ -4,7 +4,8 @@
 3. Crear un Job que levante sus servicios de backend y frontend  dentro del esclavo configurado.
 
 - Enviar la URL del repositorio de jenkins
-Subir un video donde se muestre la ejecución del job y adjuntar los logs del mismo.:
+Subir un video donde se muestre la ejecución del job y adjuntar los logs del mismo.
+EL REPOSITORIO QUE SE DEBE CLONAR AL MOMENTO DE CREAR EL JOB ES:
 docker-compose.yml
     ```commandline
     https://github.com/edytarqui3/modulo8-laboratorio4/blob/main/docker-compose.yml
